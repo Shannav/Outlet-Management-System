@@ -34,3 +34,10 @@ This system can be integrated with dashboards such as **Power BI** for data anal
 
 ## System Architecture
 # Outlet-Management-System
+
+## RetailVision BI
+
+This repository also contains the phased RetailVision BI scaffold. See
+[`docs/RETAILVISION_SETUP.md`](docs/RETAILVISION_SETUP.md) for setup and
+development instructions, and [`docs/PROJECT_BRIEF.md`](docs/PROJECT_BRIEF.md)
+for its product requirements and planned phases.
